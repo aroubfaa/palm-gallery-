@@ -52,10 +52,10 @@ palm-gallery/
 ## 📸 Screenshots
 
 ### Hero
-![Hero](https://github.com/user-attachments/assets/hero-placeholder)
-
+![Hero](https://raw.githubusercontent.com/aroubfaa/palm-gallery-/main/Screenshot%202026-05-04%20at%2002.58.17.png)
+ 
 ### Gallery
-![Gallery](https://github.com/user-attachments/assets/gallery-placeholder)
+![Gallery](https://raw.githubusercontent.com/aroubfaa/palm-gallery-/main/Screenshot%202026-05-04%20at%2002.59.15.png)
 
 ---
 
